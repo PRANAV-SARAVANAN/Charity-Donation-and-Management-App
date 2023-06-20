@@ -20,3 +20,5 @@ Our efforts to make the process easier include researching and making a list of 
 ## Tools Used
 1. Java
 2. Android Studio
+
+<img src="https://github.com/PRANAV-SARAVANAN/Charity-Donation-and-Management-App/blob/main/assets/ss_donate-money_scrn.jpg?raw=true" width="20%"/>
