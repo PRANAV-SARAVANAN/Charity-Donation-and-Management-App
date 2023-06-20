@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad.material-dialogs:core:0.8.6.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e25aadc8a0a16e8326e40c7efd7a00a8/jetified-core-0.8.6.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e25aadc8a0a16e8326e40c7efd7a00a8/jetified-core-0.8.6.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/e25aadc8a0a16e8326e40c7efd7a00a8/jetified-core-0.8.6.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6ac9eaf69fa57686fcba5353f28d55a5/jetified-core-0.8.6.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6ac9eaf69fa57686fcba5353f28d55a5/jetified-core-0.8.6.1/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6ac9eaf69fa57686fcba5353f28d55a5/jetified-core-0.8.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/core/0.8.6.1/4692e8d3102766b43e17e6dc905c83c4ffcd6008/core-0.8.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/core/0.8.6.1/78e09ecdc670b931dfd8be5130d26d2e5ab5f6a9/core-0.8.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
