@@ -21,4 +21,9 @@ Our efforts to make the process easier include researching and making a list of 
 1. Java
 2. Android Studio
 
+<img src="https://github.com/PRANAV-SARAVANAN/Charity-Donation-and-Management-App/blob/main/logo.png?raw=true" width="50%"/>
+
+<img src="https://github.com/PRANAV-SARAVANAN/Charity-Donation-and-Management-App/blob/main/assets/ss_home_scrn.jpg?raw=true" width="30%"/>
+
+
 <img src="https://github.com/PRANAV-SARAVANAN/Charity-Donation-and-Management-App/blob/main/assets/ss_donate-money_scrn.jpg?raw=true" width="20%"/>
